@@ -1,7 +1,7 @@
 ## Getting stated
 
-    client - npm run dev
-    api - npm run develop
+    client - npm i - npm run dev
+    api - npm i - npm run develop
 
 ## If the strapi server is not up, the carousel information will not be loaded
 
